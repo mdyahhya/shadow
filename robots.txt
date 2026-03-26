@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shadow.dominal.in/sitemap.xml
+Sitemap: https://shadow.yahya.in/sitemap.xml
